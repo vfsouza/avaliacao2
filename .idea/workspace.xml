@@ -1,11 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="10502666-68e9-4718-8063-0a33dae52d74" name="Changes" comment="" />
+    <list default="true" id="10502666-68e9-4718-8063-0a33dae52d74" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/SQL.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/avaliacao2/ConnectionFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/avaliacao2/ConnectionFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/avaliacao2/questao10/Mensagem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/avaliacao2/questao10/Mensagem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/avaliacao2/questao10/MensagemDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/avaliacao2/questao10/MensagemDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/avaliacao2/questao10/questao10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/avaliacao2/questao10/questao10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/avaliacao2/questao9/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/avaliacao2/questao9/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/avaliacao2/questao9/ProdutoDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/avaliacao2/questao9/ProdutoDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/avaliacao2/questao9/excecoes/ExistingIdException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/avaliacao2/questao9/excecoes/ExistingIdException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/avaliacao2/questao9/questao9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/avaliacao2/questao9/questao9.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2AlfEex4ibtl6BvKR0vHKgRc7XD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -15,10 +44,67 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/vinif/Downloads/postgresql-42.4.0.jar",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.questao9">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="avaliacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="questao10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.avaliacao2.questao10.questao10" />
+      <module name="avaliacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.avaliacao2.questao10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="questao9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.avaliacao2.questao9.questao9" />
+      <module name="avaliacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.avaliacao2.questao9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.questao9" />
+        <item itemvalue="Application.questao10" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
